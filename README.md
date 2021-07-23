@@ -1,4 +1,4 @@
-Hello, my name is Vikram. I am a 4th year student at Thapar Univeristy.
+Hello, my name is Vikram. I am a 4th year B.Tech student at Thapar Univeristy.
 
 I primarily work with c++ and python. I am also interested in developing software for linux.
 
